@@ -2,7 +2,7 @@
 
 body
 {
-background-color : rgb(234,123,4);
+background-color : rgb(122, 51, 150);
     color : red;
     font-family:"Verdana";
 }
@@ -23,6 +23,7 @@ p7{margin-left: 100px;
 
 a{ font-size: 36px;
     margin-left:400px;
+    color:rgb(12,234,248)
 }
 a1{
     margin-left:150px;
